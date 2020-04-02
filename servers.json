@@ -1,0 +1,22 @@
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "alexandredias"
+    },
+    {
+      "ParameterKey": "VolumeSize",
+      "ParameterValue": "10"
+    },
+    {
+      "ParameterKey": "AutoScalingMaxSize",
+      "ParameterValue": "1"
+    },
+    {
+      "ParameterKey": "AutoScalingMinSize",
+      "ParameterValue": "5"
+    },
+    {
+      "ParameterKey": "MyIP",
+      "ParameterValue": "10.10.10.10/32"
+    }
+]
